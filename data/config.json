@@ -9,7 +9,7 @@
     "host": "mysql2.serv00.com",
     "port": 3306,
     "user": "m1676_red",
-    "password": "KA42W.7mob5YM9HV4Sf-#"B9yved4)",
+    "password": "KA42W.7mob5YM9HV4Sf-#B9yved4)",
     "name": "m1676_red",
     "db_file": "data/data.db",
     "table_prefix": "RED_",
